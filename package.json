@@ -11,10 +11,11 @@
       	"url": "git+https://github.com/merrye/merrye.github.io.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "Merre Ye",
     "license": "ISC",
     "bugs": {
       	"url": "https://github.com/merrye/merrye.github.io/issues"
     },
-    "homepage": "https://github.com/merrye/merrye.github.io#readme"
+	"homepage": "https://github.com/merrye/merrye.github.io#readme",
+	"dependencies": {}
 }
